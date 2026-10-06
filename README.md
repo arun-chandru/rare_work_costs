@@ -2,7 +2,7 @@
 
 **R. Arun Chandru | 6 October 2026**
 
-## What the paper says
+## Extended Abstract
 
 A particle is confined by a high but finite potential wall. The wall's height is changed, and the particle's initial state is a complete thermal mixture. Almost all particles retain their ordered energy-level label as the wall becomes harder. That familiar measure of successful control nevertheless misses a small population at increasingly high energies. These rare outcomes dominate the leading dissipated work and make the work variance grow.
 
